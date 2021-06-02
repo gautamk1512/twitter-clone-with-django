@@ -44,6 +44,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Please Subscribe my YouTube Channel: <a href="https://www.youtube.com/channel/UCvYjm3Nh0yrRdPMhv6v_NaQ" target="_blank">Top Notch Programmer</a>.
+Please Subscribe my YouTube Channel: <a href="https://www.youtube.com/channel/UCvYjm3Nh0yrRdPMhv6v_NaQ" target="_blank">FACH WITH EINSTEIN</a>.
 
 
